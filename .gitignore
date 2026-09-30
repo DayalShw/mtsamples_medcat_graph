@@ -1,0 +1,12 @@
+# Secrets — never upload
+.env
+
+# Pretrained MedCAT model files — too large for GitHub (100MB+ each)
+cdb.dat
+vocab.dat
+
+# Local virtual environment
+venv/
+
+# macOS Finder metadata
+.DS_Store

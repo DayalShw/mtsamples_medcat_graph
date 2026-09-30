@@ -1,0 +1,4 @@
+pandas
+medcat
+neo4j
+python-dotenv
